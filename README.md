@@ -29,7 +29,7 @@ Azure Bot Service, QnA Maker, Static Web Apps,
 # Other Azure Technologies:
 App Service
 # 
-Thanks 
+ 
 JAY CHAUHAN
 
 
