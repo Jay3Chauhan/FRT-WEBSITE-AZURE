@@ -9,7 +9,7 @@ Web Technologies used: HTML, CSS, JS, Bootstrap.
 
 IDE: VS-Code
 
-Note: Bot is deployed on contact ,FAQ page.
+Note: Bot is deployed on The bottem FAQ page & CONTACT Page.
 
 Industry :
 Lifestyle
